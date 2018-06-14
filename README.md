@@ -17,9 +17,9 @@ Create a fully functional image gallery using HTML, CSS and JavaScript
 
 ### Design
 
-![Gallery mockup](slider.png)
+![Gallery mockup](img/slider.png)
 
-[Arrow asset](slider.png)
+[Arrow asset](img/slider.png)
 
 ## User stories
 
